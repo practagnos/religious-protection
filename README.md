@@ -2,7 +2,7 @@
 
 Can someone who considers themselves non-religious, atheist, or just spiritual claim a religious exemption to vaccination requirements in good conscience? Yes! Can a religious person do the same even if their religion’s leadership supports the vaccine? Yes! This article will justify these claims based on quotes from court rulings and provide an example of how one might fill out a religious exemption form. 
 
-My writing of this was triggered by President Biden’s Executive Order 14042 that mandates COVID-19 vaccination of federal employees and contractors. But this article isn’t really about vaccines. Regardless of your stance on vaccines in general or the COVID-19 vaccine in particular, hopefully we can all agree that people should have the same rights regardless of their beliefs. If exemptions are being granted to some people for their religious beliefs so too should they be granted to others for equally valid beliefs.
+My writing of this was triggered by President Biden’s Executive Order 14042 that mandates COVID-19 vaccination of federal employees and contractors. But this article isn’t really about vaccines. Regardless of your stance on vaccines in general or the COVID-19 vaccine in particular, hopefully we can all agree that people should have the same rights regardless of their beliefs. If exemptions are being granted to some people for their religious beliefs so too should they be granted to others for equally valid beliefs. Fortunately, the law already allows for this equality!
 
 The quotes below are from the very informative and well-referenced [Equal Employment Opportunity Commission (EEOC) section on religious discrimination](https://www.eeoc.gov/laws/guidance/section-12-religious-discrimination). I highly recommend checking it out.
 
