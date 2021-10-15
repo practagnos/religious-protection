@@ -1,8 +1,8 @@
 # Religious Exemptions Are for Everyone
 
-Can someone who considers themselves non-religious, atheist, or just spiritual claim a religious exemption to vaccination requirements in good conscience? Yes! Can a religious person do the same even if their religion’s leadership supports the vaccine? Yes! This article will justify these claims based on quotes from court rulings and provide an example of how one might fill out a religious exemption form. 
+Can someone who considers themselves non-religious, atheist, or spiritual claim a religious exemption to vaccine requirements in good conscience? Yes! Can a religious person do the same even if their religion’s leadership supports the vaccine? Yes! This article will justify these claims based on quotes from court rulings and provide an example of how one might fill out a religious exemption form. 
 
-My writing of this was triggered by President Biden’s Executive Order 14042 that mandates COVID-19 vaccination of federal employees and contractors. But this article isn’t really about vaccines. Regardless of your stance on vaccines in general or the COVID-19 vaccine in particular, hopefully we can all agree that people should have the same rights regardless of their beliefs. If exemptions are being granted to some people for their religious beliefs so too should they be granted to others for equally valid beliefs. Fortunately, the law already allows for this equality!
+My writing of this was triggered by President Biden’s Executive Order 14042 that mandates COVID-19 vaccination of federal employees and contractors. But this article isn’t really about vaccines. Regardless of your stance on mandatory vaccination, hopefully we can all agree that people should have the same rights regardless of their beliefs. If exemptions are being granted to some people for their religious beliefs so too should they be granted to others for equally valid beliefs. Fortunately, the law already allows for this equality!
 
 The quotes below are from the very informative and well-referenced [Equal Employment Opportunity Commission (EEOC) section on religious discrimination](https://www.eeoc.gov/laws/guidance/section-12-religious-discrimination). I highly recommend checking it out.
 
@@ -10,7 +10,7 @@ First, people may be granted a religious exemption from vaccine requirements for
 
 > "The fact that no religious group espouses such beliefs or the fact that the religious group to which the individual professes to belong may not accept such belief will not determine whether the belief is a religious belief of the employee or prospective employee.”
 
-So what is a religious belief according to the law? Here are some important quotes from previous court rulings:
+So what is a *religious* belief according to the law? Here are some important quotes from previous court rulings:
 
 > Sincere religious beliefs are “moral or ethical beliefs as to what is right and wrong which are sincerely held with the strength of traditional religious views.”
 >
@@ -20,7 +20,7 @@ So what is a religious belief according to the law? Here are some important quot
 >
 > A religion “consists of a belief-system as opposed to an isolated teaching.”
 
-As you can see, the legal definitions of religion and religious beliefs are very general. I firmly believe that *everyone* has beliefs that constitute a legal religion! That's not to say that *all* of your beliefs are religious however. After submitting an exemption form, you may be asked to justify both the sincerity of your beliefs and that they are indeed religious. I recommend writing down your belief-system and giving it to your employer if they ask for justification. Include quotes from here or directly from the EEOC website to justify the case that your beliefs are a legal religion. Here’s an example atheistic belief-system:
+As you can see, the legal definitions of religion and religious beliefs are very general. I contend that *everyone* has beliefs that constitute a legal religion! That's not to say that *all* of your beliefs are religious, of course, and your reasons listed in an exemption request must be religious in nature. After submitting an exemption form, you may be asked to justify both the sincerity of your beliefs and that they are indeed religious. I recommend writing down your belief-system and giving it to your employer if they ask for justification. Include quotes from here or directly from the EEOC website to justify the case that your beliefs constitute a legal religion. Here’s an example atheistic belief-system:
 
 *I do not subscribe to any formal religion but assert that my beliefs do constitute a religion under the law. I believe this life on earth may be all that there is and, therefore, our bodies and minds are supremely precious. I believe in the dignity of the individual and that each person has sovereignty over their own body and mind. I believe that one’s purpose in life is to find one’s own meaning and to strive to be the best person one can be. I believe that we should treat others the way we want to be treated. I have many further beliefs but the ones listed here address the ultimate ideas concerning life, purpose, and death and should be sufficient to substantiate my religious beliefs regarding mandatory vaccination.*
 
